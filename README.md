@@ -7,7 +7,7 @@ Development Stack
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-The explanation Notebook runs without downloading the datasets (Thanks to gdown). Just click, Learn and Explore 🔭🤗.
+The notebook runs without downloading the datasets (Thanks to gdown). Just click, Learn and Explore.
 
 If you forked this repository, you can link it to your heroku app afterwards 🔗.
 
